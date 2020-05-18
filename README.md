@@ -8,7 +8,7 @@ There are 3 ways we can make a contribution to the repo.
 On github https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL&index=1
 with Commendline
 
-<details><summary>Commend line</summary>
+## Commend line
   
 <details><summary>Contribute to an exsiting </summary>
   
@@ -228,7 +228,7 @@ You successfully created a pull request, and it has passed all of the tests. You
 </details>
 
 
-</details>
+
 
 
 
