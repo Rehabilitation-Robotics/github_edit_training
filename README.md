@@ -241,7 +241,7 @@ Please watch video #6:
 
 ## Create a new repository(repo) from scratch
 
-  
+ <details><summary> process flow </summary> 
   
 ## Step 1: Planning the move
 
@@ -498,4 +498,6 @@ Having a project already stored locally enables you to move it to GitHub rather 
   6. Click next, and enter the branch name.
 
   <hr>
+</details>
+
 </details>
