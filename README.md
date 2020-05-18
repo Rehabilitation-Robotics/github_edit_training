@@ -224,10 +224,10 @@ You successfully created a pull request, and it has passed all of the tests. You
 <hr>
 
 
-<hr>
+
 </details>
 
-<hr>
+
 </details>
 
 
