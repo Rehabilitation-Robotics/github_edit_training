@@ -406,7 +406,7 @@ Having a project already stored locally enables you to move it to GitHub rather 
 </details>
 
 <details>
-  <summary>Using GitHub Desktop</summary>
+  <summary>Using GitHub.com</summary>
   <hr>
 
   ### Using GitHub.com
