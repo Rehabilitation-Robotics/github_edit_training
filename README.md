@@ -10,6 +10,8 @@ with Commendline
 
 <details><summary>Commend line</summary>
   
+<details><summary>Contribute to an exsiting </summary>
+  
 ## Step 1: Create a branch
 
 Let’s complete the first step of the GitHub flow: creating a branch <sup>[:book:](https://help.github.com/articles/github-glossary/#branch)</sup>.
@@ -155,7 +157,7 @@ This pull request is going to keep the changes you just made on your branch and 
 
 <hr>
 
-## Step 7: Respond to a review
+## Step 4: Respond to a review
 
 Your pull request is looking great!
 
@@ -191,7 +193,7 @@ Let’s add some content to your file. Replace line 5 of your file with a quotat
 
 **Note** : Can't find the button to edit the file? It may look like a pencil, or it may look like three dots.
 
-## Step 8: Merge your pull request
+## Step 5: Merge your pull request
 
 Nicely done, you! :sparkles:
 
@@ -221,6 +223,9 @@ You successfully created a pull request, and it has passed all of the tests. You
 
 <hr>
 
+
+<hr>
+</details>
 
 <hr>
 </details>
