@@ -1,0 +1,1 @@
+This training is awesome!
