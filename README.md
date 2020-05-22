@@ -1,12 +1,51 @@
 # Welcome the Rehabilitation Robatic Lab Github Training!
 
-There are 2 major con
+There are 2 major learning objectives:
+1. Contribute to exsiting repository on Github
+1. Create brand new repository from scratch
+<hr>
 
-In this section, you will learn how to use **Github flow** to efficently editing the exsiting files on our repo. 
+## Here are some important links
 
-There are 3 ways we can make a contribution to the repo.
-On github https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL&index=1
-with Commendline
+#### Tutrial videos playsit link:
+https://www.youtube.com/playlist?list=PL6H7SVJLuTdFzDSSpn5b5fcWc4pGL_6VU
+
+
+#### Installing git and setting up configurations:
+ For Mac: https://www.youtube.com/watch?v=sJ4zr0a4GAs<br/>
+ For Windows: https://www.youtube.com/watch?v=eo00v2aw92Y 
+ 
+ 
+
+#### Our Github Organization- Rehabilitation Robotics
+
+https://github.com/Rehabilitation-Robotics
+
+ 
+#### GitHub features - Explore GitHub
+
+https://www.linkedin.com/learning/learning-github/exploring-github
+
+#### Github Flow 
+
+Credit link: https://github.com/SCODEMeetup/scode-repo-template/wiki/GitHub-flow-(branching)
+
+#### [Video]Github Learning Lab: Introduction to GitHub Walkthrough
+
+https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL&index=1
+
+#### Github Learning Lab 
+https://lab.github.com/
+Introduction to github: https://lab.github.com/githubtraining/introduction-to-github<br/>
+Uploading your project to GitHub: https://lab.github.com/githubtraining/uploading-your-project-to-github
+
+#### Github Desktop
+https://desktop.github.com/
+
+## Work Flow
+GitHub Flow:
+![git-small](https://user-images.githubusercontent.com/6351798/48032310-63842400-e114-11e8-8db0-06dc0504dcb5.png)
+
 
 ## Contribute to an exsiting repository on Github
   
