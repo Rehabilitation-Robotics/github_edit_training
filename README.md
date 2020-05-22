@@ -84,7 +84,7 @@ The best way to keep branches organized with a team is to keep them concise and 
       ```
 1. Navigate to the repository in your shell:
       ```shell
-      cd edit_training
+      cd github_training
       ```
 1. Create a branch, use whatever name you like. Feel free to use the your name (eg. `git branch JasonZ`). 
       ```shell
