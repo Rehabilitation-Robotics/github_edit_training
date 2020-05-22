@@ -416,9 +416,9 @@ Since the files to be ignored are dependent on the language you are using, the o
 
 ### :keyboard: Activity: Prepare your repository
 
-1. Remove any binary files from your repository.
+1. **Remove any binary files from your repository**.
 2. In your local environment, [create a `.gitignore` file](https://help.github.com/articles/ignoring-files/). You can use a [template](https://github.com/github/gitignore) or create your own.  :tada:
-3.Go to github. Log in to your account.Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
+
 
 ## Step 3: Make the move
 
@@ -434,7 +434,7 @@ Having a project already stored locally enables you to move it to GitHub rather 
   <hr>
 
   ### Using the command line
-
+  1. Go to github. Log in to your account.Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
   1. In your command line, navigate to your project directory. Type `git init` to initialize the directory as a Git repository.
   2. Type `git remote add origin https://github.com/Rehabilitation-Robotics/<yourRepo>.git`
   3. Type `git add .`
