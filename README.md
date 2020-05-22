@@ -7,6 +7,8 @@ There are 2 major learning objectives:
 
 ## Here are some important links
 
+<details><summary> important links  </summary>
+
 #### Tutrial videos playsit link:
 https://www.youtube.com/playlist?list=PL6H7SVJLuTdFzDSSpn5b5fcWc4pGL_6VU
 
@@ -41,6 +43,8 @@ Uploading your project to GitHub: https://lab.github.com/githubtraining/uploadin
 
 #### Github Desktop
 https://desktop.github.com/
+
+</details>
 
 ## Work Flow
 GitHub Flow:
