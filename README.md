@@ -474,6 +474,7 @@ Having a project already stored locally enables you to move it to GitHub rather 
   2. Add the remote by clicking `Repository > Repository Settings...` and pasting the URL from your repository on GitHub into the "Primary remote repository (origin)" field. Click **Save**.
   3. Click **Publish** in the top right corner to push your repository to GitHub.
 
+<br/> **A more detailed instrustion**: https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop
   <hr>
 </details>
 
