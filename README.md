@@ -438,7 +438,7 @@ Having a project already stored locally enables you to move it to GitHub rather 
   <hr>
 
   ### Using the command line
-  1. Go to github. Log in to your account.Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
+  1. Go to Github.com Log in to your account. Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
   1. In your command line, navigate to your project directory. Type `git init` to initialize the directory as a Git repository.
   2. Type `git remote add origin https://github.com/Rehabilitation-Robotics/<yourRepo>.git`
   3. Type `git add .`
