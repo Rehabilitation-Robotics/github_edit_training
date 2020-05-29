@@ -1,4 +1,4 @@
-# Welcome the Rehabilitation Robotic Lab Github Training!
+# Welcome to the Rehabilitation Robotic Lab Github Training!
 
 There are 2 major learning objectives:
 1. Contribute to an existing repository on Github
