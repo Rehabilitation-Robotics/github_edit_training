@@ -1,15 +1,15 @@
-# Welcome the Rehabilitation Robatic Lab Github Training!
+# Welcome the Rehabilitation Robotic Lab Github Training!
 
 There are 2 major learning objectives:
-1. Contribute to exsiting repository on Github
-1. Create brand new repository from scratch
+1. Contribute to an existing repository on Github
+2. Create a brand new repository from scratch
 <hr>
 
 ## Here are some important links
 
 <details><summary> important links  </summary>
 
-#### Tutrial videos playsit link:
+#### Tutorial videos playlist link:
 https://www.youtube.com/playlist?list=PL6H7SVJLuTdFzDSSpn5b5fcWc4pGL_6VU
 
 
@@ -37,7 +37,7 @@ Credit link: https://github.com/SCODEMeetup/scode-repo-template/wiki/GitHub-flow
 https://www.youtube.com/watch?v=sz6zfrQpCQg&list=PLg7s6cbtAD147DXcVp899Fk6SegoLY9gL&index=1
 
 #### Github Learning Lab 
-https://lab.github.com/
+https://lab.github.com/<br/>
 Introduction to github: https://lab.github.com/githubtraining/introduction-to-github<br/>
 Uploading your project to GitHub: https://lab.github.com/githubtraining/uploading-your-project-to-github
 
@@ -51,9 +51,9 @@ GitHub Flow:
 ![git-small](https://user-images.githubusercontent.com/6351798/48032310-63842400-e114-11e8-8db0-06dc0504dcb5.png)
 
 
-## Contribute to an exsiting repository on Github
+## Contribute to an existing repository on Github
   
-<details><summary> Commend line  </summary>
+<details><summary> Command line  </summary>
   
 ## Step 1: Create a branch
 
@@ -282,7 +282,7 @@ Please watch video #6:
 
 </details>
 
-## Create a new repository(repo) from scratch
+## Create a brand new repository(repo) from scratch
 
  <details><summary> process flow </summary> 
   
