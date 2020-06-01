@@ -1,4 +1,4 @@
-# Welcome the Rehabilitation Robotic Lab Github Training!
+# Welcome to the Rehabilitation Robotic Lab Github Training!
 
 There are 2 major learning objectives:
 1. Contribute to an existing repository on Github
@@ -216,7 +216,7 @@ Let’s add some content to your file. Replace line 5 of your file with a quotat
 1. Open the file `training.md`.
 1. Add in following message. 
     ```shell
-    <yourname> has fininshed this editing training.
+    <yourname> has finished this editing training.
     ```
 1. Stage your new changes:
     ```shell
@@ -438,7 +438,8 @@ Having a project already stored locally enables you to move it to GitHub rather 
   <hr>
 
   ### Using the command line
-  1. Go to Github.com Log in to your account. Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
+  1. Go to Github.com. Log in to your account. 
+  1. Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, and you can choose to make this repo public or private. Click the “Create repository” button. 
   1. In your command line, navigate to your project directory. Type `git init` to initialize the directory as a Git repository.
   2. Type `git remote add origin https://github.com/Rehabilitation-Robotics/<yourRepo>.git`
   3. Type `git add .`
@@ -469,12 +470,16 @@ Having a project already stored locally enables you to move it to GitHub rather 
 
   ### Using GitHub Desktop
 
+  **Watch video #6 -- Git tool: Github Desktop** <br>
+  <br>
+   **A more detailed instrustion**: https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop <br>
+  <br>
+   **If you already have a local git repository**: <br> 
   1. In GitHub Desktop, add a local repository by clicking `File > Add a Local Repository`, and then navigating to your local repository.
   1. Create your first commit by typing a summary commit message in the field provided and clicking **Commit to master**
   2. Add the remote by clicking `Repository > Repository Settings...` and pasting the URL from your repository on GitHub into the "Primary remote repository (origin)" field. Click **Save**.
   3. Click **Publish** in the top right corner to push your repository to GitHub.
 
-<br/> **A more detailed instrustion**: https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop
   <hr>
 </details>
 
