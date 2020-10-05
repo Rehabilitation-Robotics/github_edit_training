@@ -190,7 +190,7 @@ This pull request is going to keep the changes you just made on your branch and 
 
 ### :keyboard: Activity: Create a pull request
 
-1. Open a pull request using [this shortcut](https://github.com/jichengnorth/github-slideshow/compare/refs/heads/my-slide?expand=1) or manually as follows:
+1. Open a pull request using [this shortcut](https://github.com/Rehabilitation-Robotics/github_training/pulls) or manually as follows:
     - From the "Pull requests" tab, click **New pull request**
     - In the "base:" drop-down menu, make sure the "master" branch is selected
     - In the "compare:" drop-down menu, select "my-slide"
